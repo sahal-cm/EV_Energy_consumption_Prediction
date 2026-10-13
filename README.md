@@ -76,6 +76,36 @@ This plot compares the actual energy consumption values in the test dataset with
 - **TensorFlow / Keras** — Neural network development and regression
 - **Jupyter Notebook** — Experimentation and documentation
 
+
+## Installation and Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone YOUR_GITHUB_REPOSITORY_URL
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd EV_Energy_consumption_Prediction
+   ```
+
+3. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Launch Jupyter Notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+
+5. Open `EV_Energy_Project.ipynb` and run the notebook cells.
+
+
 ## Project Workflow
 
 1. **Data Loading:** Loaded the EV energy consumption dataset.
